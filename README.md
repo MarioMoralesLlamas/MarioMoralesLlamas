@@ -5,7 +5,7 @@
 
 I'm currently learning programming and exploring the world of video game development. I'm passionate about technology, game design, and creating interactive experiences.
 
-🌱 **Currently learning:** Game Development & Programming  
+🌱 **Currently learning:** Game Development,2D, 3D & Programming  
 🎯 **Goal:** Build creative and engaging video games  
 💻 **Interests:** Software Development, Game Design & Technology  
 
