@@ -8,7 +8,7 @@ I'm currently learning programming and exploring the world of video game develop
 🌱 **Currently learning:** Game Development,2D, 3D & Programming  
 🎯 **Goal:** Build creative and engaging video games  
 💻 **Interests:** Software Development, Game Design & Technology  
-
+🔧 **Programs i know:** Blender, Unity, Krita etc. .
 ---
 
 🚀 *Learning, building, and improving one project at a time.*
